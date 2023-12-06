@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "tapimg.com",
+        "taptap.com"
+      ],
+      "domain_suffix": [
+        ".tapimg.com",
+        ".taptap.com"
+      ]
+    }
+  ]
+}
